@@ -49,7 +49,7 @@ public class TablaGraphics extends JFrame {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(300, 300, 550, 300);
 		contentPane = new JPanel();
-		contentPane.setBackground(new Color(188, 143, 143));
+		contentPane.setBackground(new Color(255, 204, 204));
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
 		
